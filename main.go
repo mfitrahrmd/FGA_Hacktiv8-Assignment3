@@ -72,7 +72,7 @@ func GenerateRandomNumber(min, max int) int {
 
 var (
 	FILENAME string
-	ADDRESS  = ":3000"
+	ADDRESS  = ":8001"
 )
 
 func init() {
